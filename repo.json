@@ -19,5 +19,29 @@
     "DownloadLinkUpdate": "https://github.com/Exicross/Exis-better-plugins/releases/download/v0.6.11/SDT-0.6.11.zip",
     "IsHide": false,
     "IsTestingExclusive": false
+  },
+  {
+    "Author": "BetterMap",
+    "Name": "BetterMap",
+    "InternalName": "BetterMap",
+    "AssemblyVersion": "0.2.7.0",
+    "Punchline": "Find entrances on the map.",
+    "Description": "Adds activity entrances, Aether Currents, and A Realm Reborn quest unlock hints to the area map.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "map",
+      "markers",
+      "navigation",
+      "quests",
+      "fishing"
+    ],
+    "RepoUrl": "https://github.com/Exicross/Exis-better-plugins",
+    "IconUrl": "https://raw.githubusercontent.com/Exicross/Exis-better-plugins/main/plugins/BetterMap/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Exicross/Exis-better-plugins/main/plugins/BetterMap/0.2.7/BetterMap-0.2.7.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Exicross/Exis-better-plugins/main/plugins/BetterMap/0.2.7/BetterMap-0.2.7.zip",
+    "Changelog": "First release in Exis Better Plugins. Includes activity entrance markers, Ocean Fishing routes and registration status, ARR quest unlock hints, and Aether Current markers.",
+    "IsHide": false,
+    "IsTestingExclusive": false
   }
 ]
