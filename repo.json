@@ -13,10 +13,10 @@
       "damage",
       "dps"
     ],
-    "RepoUrl": "https://github.com/Exicross/sdt-dalamud-repo",
-    "IconUrl": "https://raw.githubusercontent.com/Exicross/sdt-dalamud-repo/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/Exicross/sdt-dalamud-repo/releases/download/v0.6.11/SDT-0.6.11.zip",
-    "DownloadLinkUpdate": "https://github.com/Exicross/sdt-dalamud-repo/releases/download/v0.6.11/SDT-0.6.11.zip",
+    "RepoUrl": "https://github.com/Exicross/Exis-better-plugins",
+    "IconUrl": "https://raw.githubusercontent.com/Exicross/Exis-better-plugins/main/icon.png",
+    "DownloadLinkInstall": "https://github.com/Exicross/Exis-better-plugins/releases/download/v0.6.11/SDT-0.6.11.zip",
+    "DownloadLinkUpdate": "https://github.com/Exicross/Exis-better-plugins/releases/download/v0.6.11/SDT-0.6.11.zip",
     "IsHide": false,
     "IsTestingExclusive": false
   }
