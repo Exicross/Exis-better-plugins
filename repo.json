@@ -24,9 +24,9 @@
     "Author": "BetterMap",
     "Name": "BetterMap",
     "InternalName": "BetterMap",
-    "AssemblyVersion": "0.2.7.0",
+    "AssemblyVersion": "0.2.8.0",
     "Punchline": "Find entrances on the map.",
-    "Description": "Adds activity entrances, Aether Currents, and A Realm Reborn quest unlock hints to the area map.",
+    "Description": "Adds activity entrances, Aether Currents, and blue quest unlock hints to the area map.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -38,9 +38,9 @@
     ],
     "RepoUrl": "https://github.com/Exicross/Exis-better-plugins",
     "IconUrl": "https://raw.githubusercontent.com/Exicross/Exis-better-plugins/main/plugins/BetterMap/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Exicross/Exis-better-plugins/main/plugins/BetterMap/0.2.7/BetterMap-0.2.7.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Exicross/Exis-better-plugins/main/plugins/BetterMap/0.2.7/BetterMap-0.2.7.zip",
-    "Changelog": "First release in Exis Better Plugins. Includes activity entrance markers, Ocean Fishing routes and registration status, ARR quest unlock hints, and Aether Current markers.",
+    "DownloadLinkInstall": "https://github.com/Exicross/Exis-better-plugins/releases/download/bettermap-v0.2.8/BetterMap-0.2.8.zip",
+    "DownloadLinkUpdate": "https://github.com/Exicross/Exis-better-plugins/releases/download/bettermap-v0.2.8/BetterMap-0.2.8.zip",
+    "Changelog": "Extends blue quest hints from ARR through Dawntrail. Shows known duty unlocks and their types, Aether Current rewards, or the quest's journal category.",
     "IsHide": false,
     "IsTestingExclusive": false
   }
