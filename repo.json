@@ -24,7 +24,7 @@
     "Author": "BetterMap",
     "Name": "BetterMap",
     "InternalName": "BetterMap",
-    "AssemblyVersion": "0.2.9.0",
+    "AssemblyVersion": "0.2.11.0",
     "Punchline": "Find entrances on the map.",
     "Description": "Adds activity entrances, Aether Currents, and blue quest unlock hints to the area map.",
     "ApplicableVersion": "any",
@@ -38,9 +38,9 @@
     ],
     "RepoUrl": "https://github.com/Exicross/Exis-better-plugins",
     "IconUrl": "https://raw.githubusercontent.com/Exicross/Exis-better-plugins/main/plugins/BetterMap/icon.png",
-    "DownloadLinkInstall": "https://github.com/Exicross/Exis-better-plugins/releases/download/bettermap-v0.2.9/BetterMap-0.2.9.zip",
-    "DownloadLinkUpdate": "https://github.com/Exicross/Exis-better-plugins/releases/download/bettermap-v0.2.9/BetterMap-0.2.9.zip",
-    "Changelog": "Limits quest-based Aether Current map markers to currents that count toward Dawntrail zones.",
+    "DownloadLinkInstall": "https://github.com/Exicross/Exis-better-plugins/releases/download/bettermap-v0.2.11/BetterMap-0.2.11.zip",
+    "DownloadLinkUpdate": "https://github.com/Exicross/Exis-better-plugins/releases/download/bettermap-v0.2.11/BetterMap-0.2.11.zip",
+    "Changelog": "Shows quest-based Aether Current markers from Heavensward through Dawntrail and hides collected currents and completed quests.",
     "IsHide": false,
     "IsTestingExclusive": false
   }
