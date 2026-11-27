@@ -1,0 +1,23 @@
+[
+  {
+    "Author": "Exicross",
+    "Name": "SDT - Simple Damage Tracker",
+    "InternalName": "FfxivDpsMeter",
+    "AssemblyVersion": "0.6.10.0",
+    "Punchline": "Party damage and healing inside FFXIV.",
+    "Description": "An in-game tracker for party damage, healing, and deaths in FFXIV. Works without ACT.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "combat",
+      "damage",
+      "dps"
+    ],
+    "RepoUrl": "https://github.com/Exicross/sdt-dalamud-repo",
+    "IconUrl": "https://raw.githubusercontent.com/Exicross/sdt-dalamud-repo/main/icon.png",
+    "DownloadLinkInstall": "https://github.com/Exicross/sdt-dalamud-repo/releases/download/v0.6.10/SDT-0.6.10.zip",
+    "DownloadLinkUpdate": "https://github.com/Exicross/sdt-dalamud-repo/releases/download/v0.6.10/SDT-0.6.10.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false
+  }
+]
